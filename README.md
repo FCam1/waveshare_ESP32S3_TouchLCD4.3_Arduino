@@ -1,6 +1,7 @@
 # Waveshare ESP32S3 Touch LCD 4.3 inch 
 Basic setup using SquareLine Studio / Arduino with an Waveshare ESP32S3 Touch LCD 4.3 inch.  
 Minimal dependencies.
+LVGL 8.3.x
 
 ## Basic example files : 
 
