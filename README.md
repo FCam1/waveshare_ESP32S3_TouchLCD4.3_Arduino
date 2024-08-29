@@ -19,7 +19,12 @@ Original file [from waveshare](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD
 > Board manager version : **esp32 by ESpressif 3.0.3**  
 > Libraries versions : **lvgl by kisvegador 8.3.6** / **LovyanGFX by lovyan03 1.1.16**
 >
-> Square line export files in folders so files must be copy paste in the same files as the .ino. [Trick to explore.](https://forum.squareline.io/t/export-ui-files-to-arduino/1398/3)  
+
+> [!NOTE]  
+> By default Square line export files in folders that cause compilation issues so in ***project setting*** select ***flat export***  
+
+
+
 ***
 
 HMI looks like this:
